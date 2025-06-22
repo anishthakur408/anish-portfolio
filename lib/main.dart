@@ -65,7 +65,7 @@ class NavBar extends StatelessWidget {
               ),
               IconButton(
                 icon: const FaIcon(FontAwesomeIcons.instagram, color: Colors.white),
-                onPressed: () => _launchURL("https://www.instagram.com/anish_.thakur"),
+                onPressed: () => _launchURL("https://www.instagram.com/anii.o001/"),
               ),
               IconButton(
                 icon: const FaIcon(FontAwesomeIcons.xTwitter, color: Colors.white),
